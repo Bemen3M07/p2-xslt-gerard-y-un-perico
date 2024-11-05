@@ -1,0 +1,67 @@
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>PERICO ASSOCIATION - Tu informacion de primera mano</title>
+    </head>
+
+    <body>
+        <header>
+            
+            <div id="logo">
+                <h1><a href="inicio.html" >PERICO ASSOCIATION</a></h1>
+            </div>
+            <nav class="menu">
+                <ul>
+                    <li><a href="inicio.html">Inicio</a></li>
+                    <li><a href="servicios.html">Servicios</a></li>
+                    <li><a href="precios.html">Precios</a></li>
+                    <li><a href="contacto.html">Contacto</a></li>
+                    <li><a href="sobrenosotros.html">Sobre nosotros</a></li>
+                </ul>
+            </nav>
+        </header>
+        <br> <br>
+        
+    <main>
+        <!-- info inicio -->
+        <section class="info">
+
+            <div class="info-text" >
+                <h2></h2>
+                <p></p>
+            </div>
+        </section>
+        <!-- Que ofrece la empresa -->
+        <section id="tipos">
+            <h2>Nuestros Servicios</h2>
+            <div class="tipus">
+                <div class="tipus1">
+                    <h3></h3>
+                    <p></p>
+                </div>
+                <div class="tipus2">
+                    <h3></h3>
+                    <p></p>
+                </div>
+                <div class="tipus3">
+                    <h3></h3>
+                    <p></p>
+                </div>
+            </div>
+        </section>
+    </main>
+    </main>
+    <footer>
+        <!--botons informació 5)-->
+    <div>                  
+        <ul>
+            <li><span href="#inicio">Cookies policy</span></li>
+            <li><span href="#inicio">Privacy policy</span></li>
+            <li><span href="#inicio">Terms of service</span></li>
+            <li><span href="#inicio">Secure shipping</span></li>
+            <li><span href="#inicio">Secure pay</span></li>  
+            <li><span href="#inicio">Copyright © 2024 PERICO ASSOCIATION. All rights reserved.</span></li>  
+        </ul>
+    </div>
+    </footer>
