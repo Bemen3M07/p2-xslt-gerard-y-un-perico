@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<noticies>
+    <noticia>
+        <imatge>imatge1.jpg</imatge>
+        <titol>RCD Espanyol goleja a casa contra el Real Oviedo</titol>
+        <text>Amb una actuació brillant, l’Espanyol va guanyar per 4-1 davant el Real Oviedo en un partit dominat des del principi. Els pericos es mantenen a les primeres posicions de la lliga.</text>
+    </noticia>
+    <noticia>
+        <imatge>imatge2.jpg</imatge>
+        <titol>La tornada d’un mite: Raúl Tamudo al staff tècnic</titol>
+        <text>Raúl Tamudo, llegenda del club, s’incorpora a l’equip tècnic com a assessor esportiu. Els aficionats celebren el retorn d’una de les figures més estimades del club.</text>
+    </noticia>
+    <noticia>
+        <imatge>imatge3.jpg</imatge>
+        <titol>L’Espanyol busca reforços en el mercat d’hivern</titol>
+        <text>La directiva i el cos tècnic ja preparen moviments per al mercat d’hivern amb l’objectiu de mantenir l’equip en la lluita per l’ascens a Primera Divisió.</text>
+    </noticia>
+    <noticia>
+        <imatge>imatge4.jpg</imatge>
+        <titol>Campanya solidària dels pericos per recollir aliments</titol>
+        <text>L’Espanyol organitza una campanya de recollida d’aliments per ajudar a famílies vulnerables. Els aficionats podran fer donacions durant els propers partits a casa.</text>
+    </noticia>
+    <noticia>
+        <imatge>imatge5.jpg</imatge>
+        <titol>Partit especial en homenatge a Dani Jarque</titol>
+        <text>Amb motiu del desè aniversari de la mort de Dani Jarque, el club prepara un homenatge especial durant el proper partit a casa per honorar la memòria del capità etern.</text>
+    </noticia>
+    <noticia>
+        <imatge>imatge6.jpg</imatge>
+        <titol>L’afició omple l’estadi en suport a l’equip</titol>
+        <text>Els pericos van demostrar la seva passió omplint les grades de Cornellà-El Prat en el darrer partit. El suport massiu va ser clau per a la victòria.</text>
+    </noticia>
+    <noticia>
+        <imatge>imatge7.jpg</imatge>
+        <titol>Victòria ajustada contra el Tenerife</titol>
+        <text>L’Espanyol va aconseguir una victòria per 2-1 en un partit intens contra el Tenerife, mantenint així el seu bon ritme de joc i posició en la classificació.</text>
+    </noticia>
+    <noticia>
+        <imatge>imatge8.jpg</imatge>
+        <titol>Nous plans per a la millora de la Ciutat Esportiva Dani Jarque</titol>
+        <text>El club anuncia inversions per millorar les instal·lacions de la Ciutat Esportiva Dani Jarque, amb l’objectiu de potenciar la formació de joves talents.</text>
+    </noticia>
+</noticies>
