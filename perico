@@ -1,68 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <html lang="es">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PERICO ASSOCIATION - Tu informacion de primera mano</title>
-</head>
-
-<body>
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>PERICO ASSOCIATION - Tu informació de primera mà</title>
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+  <body>
     <header>
-
-        <div id="logo">
-            <h1><a href="inicio.html">PERICO ASSOCIATION</a></h1>
-        </div>
-        <nav class="menu">
-            <ul>
-                <li><a href="inicio.html">Inicio</a></li>
-                <li><a href="servicios.html">Servicios</a></li>
-                <li><a href="precios.html">Precios</a></li>
-                <li><a href="contacto.html">Contacto</a></li>
-                <li><a href="sobrenosotros.html">Sobre nosotros</a></li>
-            </ul>
-        </nav>
+      <div id="logo">
+        <h1>
+          <a href="inicio.html">PERICO ASSOCIATION</a>
+        </h1>
+      </div>
+      <nav class="menu">
+        <ul>
+          <li>
+            <a href="inicio.html">Inicio</a>
+          </li>
+          <li>
+            <a href="servicios.html">Servicios</a>
+          </li>
+          <li>
+            <a href="precios.html">Precios</a>
+          </li>
+          <li>
+            <a href="contacto.html">Contacto</a>
+          </li>
+          <li>
+            <a href="sobrenosotros.html">Sobre nosotros</a>
+          </li>
+        </ul>
+      </nav>
     </header>
-    <br> <br>
-
     <main>
-        <!-- info inicio -->
-        <section class="info">
-
-            <div class="info-text">
-                <h2></h2>
-                <p></p>
-            </div>
-        </section>
-        <!-- Que ofrece la empresa -->
-        <section id="tipos">
-            <h2>Nuestros Servicios</h2>
-            <div class="tipus">
-                <div class="tipus1">
-                    <h3></h3>
-                    <p></p>
-                </div>
-                <div class="tipus2">
-                    <h3></h3>
-                    <p></p>
-                </div>
-                <div class="tipus3">
-                    <h3></h3>
-                    <p></p>
-                </div>
-            </div>
-        </section>
-    </main>
+      <section class="info">
+        <h2>Noticies per a Pericos</h2>
+        <div class="grid-container">
+          <div class="card">
+            <img src="imatge1.jpg" alt="RCD Espanyol goleja a casa contra el Real Oviedo"/>
+            <h3>RCD Espanyol goleja a casa contra el Real Oviedo</h3>
+            <p>Amb una actuació brillant, l’Espanyol va guanyar per 4-1 davant el Real Oviedo en un partit dominat des del principi. Els pericos es mantenen a les primeres posicions de la lliga.</p>
+          </div>
+          <div class="card">
+            <img src="imatge2.jpg" alt="La tornada d’un mite: Raúl Tamudo al staff tècnic"/>
+            <h3>La tornada d’un mite: Raúl Tamudo al staff tècnic</h3>
+            <p>Raúl Tamudo, llegenda del club, s’incorpora a l’equip tècnic com a assessor esportiu. Els aficionats celebren el retorn d’una de les figures més estimades del club.</p>
+          </div>
+          <div class="card">
+            <img src="imatge3.jpg" alt="L’Espanyol busca reforços en el mercat d’hivern"/>
+            <h3>L’Espanyol busca reforços en el mercat d’hivern</h3>
+            <p>La directiva i el cos tècnic ja preparen moviments per al mercat d’hivern amb l’objectiu de mantenir l’equip en la lluita per l’ascens a Primera Divisió.</p>
+          </div>
+          <div class="card">
+            <img src="imatge4.jpg" alt="Campanya solidària dels pericos per recollir aliments"/>
+            <h3>Campanya solidària dels pericos per recollir aliments</h3>
+            <p>L’Espanyol organitza una campanya de recollida d’aliments per ajudar a famílies vulnerables. Els aficionats podran fer donacions durant els propers partits a casa.</p>
+          </div>
+          <div class="card">
+            <img src="imatge5.jpg" alt="Partit especial en homenatge a Dani Jarque"/>
+            <h3>Partit especial en homenatge a Dani Jarque</h3>
+            <p>Amb motiu del desè aniversari de la mort de Dani Jarque, el club prepara un homenatge especial durant el proper partit a casa per honorar la memòria del capità etern.</p>
+          </div>
+          <div class="card">
+            <img src="imatge6.jpg" alt="L’afició omple l’estadi en suport a l’equip"/>
+            <h3>L’afició omple l’estadi en suport a l’equip</h3>
+            <p>Els pericos van demostrar la seva passió omplint les grades de Cornellà-El Prat en el darrer partit. El suport massiu va ser clau per a la victòria.</p>
+          </div>
+          <div class="card">
+            <img src="imatge7.jpg" alt="Victòria ajustada contra el Tenerife"/>
+            <h3>Victòria ajustada contra el Tenerife</h3>
+            <p>L’Espanyol va aconseguir una victòria per 2-1 en un partit intens contra el Tenerife, mantenint així el seu bon ritme de joc i posició en la classificació.</p>
+          </div>
+          <div class="card">
+            <img src="imatge8.jpg" alt="Nous plans per a la millora de la Ciutat Esportiva Dani Jarque"/>
+            <h3>Nous plans per a la millora de la Ciutat Esportiva Dani Jarque</h3>
+            <p>El club anuncia inversions per millorar les instal·lacions de la Ciutat Esportiva Dani Jarque, amb l’objectiu de potenciar la formació de joves talents.</p>
+          </div>
+        </div>
+      </section>
     </main>
     <footer>
-        <!--botons informació 5)-->
-        <div>
-            <ul>
-                <li><span href="#inicio">Cookies policy</span></li>
-                <li><span href="#inicio">Privacy policy</span></li>
-                <li><span href="#inicio">Terms of service</span></li>
-                <li><span href="#inicio">Secure shipping</span></li>
-                <li><span href="#inicio">Secure pay</span></li>
-                <li><span href="#inicio">Copyright © 2024 PERICO ASSOCIATION. All rights reserved.</span></li>
-            </ul>
-        </div>
+      <ul>
+        <li>
+          <a href="#cookies">Cookies policy</a>
+        </li>
+        <li>
+          <a href="#privacy">Privacy policy</a>
+        </li>
+        <li>
+          <a href="#terms">Terms of service</a>
+        </li>
+        <li>
+          <a href="#shipping">Secure shipping</a>
+        </li>
+        <li>
+          <a href="#pay">Secure pay</a>
+        </li>
+        <li>Copyright © 2024 PERICO ASSOCIATION. All rights reserved.</li>
+      </ul>
     </footer>
+  </body>
+</html>
